@@ -68,16 +68,11 @@ end
 
 Color BSD68 dataset for image denoising benchmarks It is part of The Berkeley Segmentation Dataset and Benchmark. This benchmark dataset is widely used for measuring image denoising algorithms performance.
 
-## 下载链接
-
-<https://github.com/clausmichele/CBSD68-dataset>
+- [下载链接](https://github.com/clausmichele/CBSD68-dataset)
+- 
 
 # Set12
 
-## 下载链接
-
-<https://github.com/visinf/n3net/tree/master/datasets>
-
-
-
-test
+- [下载地址](https://github.com/visinf/n3net/tree/master/datasets)
+- 十二张图名字
+- 特点
